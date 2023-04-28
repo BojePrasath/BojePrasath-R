@@ -10,3 +10,5 @@ Today Update
 
 Update Ami backup,monitoring the cloud card and I tried to create a vpc and subnet attach to the Internet gateway & Nat Gateway attach into route table and I treid to My local disk attach into
 the githup test the the command 
+
+Ctrl+Alt=Delete-change password
